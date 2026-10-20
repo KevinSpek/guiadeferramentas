@@ -109,6 +109,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web <br>
 - [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis <br>
 - [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper <br>
+- [Coddy](https://coddy.tech/playground/pt/javascript) - Compilador de JavaScript online, sem instalação e sem cadastro <br>
 - [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end <br>
 - [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web <br>
 - [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas <br>
@@ -119,7 +120,6 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos <br>
 - [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro <br>
 - [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source <br>
-- [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript <br>
 - [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google <br>
 - [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web <br>
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome <br>
